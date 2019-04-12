@@ -1,0 +1,6 @@
+[report]
+include =
+    src/play/*
+omit =
+    */test*
+    */upgrades/*
